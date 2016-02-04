@@ -1,5 +1,7 @@
 [![npm Version](https://img.shields.io/npm/v/node-d3ck-log.svg)](https://www.npmjs.com/package/node-d3ck-log)
 [![JS-Standard](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+[![Build Status](https://api.travis-ci.org/d3ck-org/node-d3ck-log.svg?branch=master)](https://travis-ci.org/d3ck-org/node-d3ck-log)
+[![Dependency Status](https://david-dm.org/d3ck-org/node-d3ck-log.svg)](https://david-dm.org/d3ck-org/node-d3ck-log)
 
 # node-d3ck-log
 

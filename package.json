@@ -1,6 +1,6 @@
 {
   "name": "node-d3ck-log",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "description": "Lightweight wrapper and utilities for bunyan logger",
   "main": "index.js",
   "engines": {
